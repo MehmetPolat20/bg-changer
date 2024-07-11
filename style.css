@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+
+  text-align: center;
+  margin-top: 150px;
+
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 2rem;
+}
+h1 {
+
+}
+li {
+  width: 2.5rem;
+  height: 2.5rem;
+  background: red;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+button{
+    border-radius: 5px;
+    width: 4rem;
+    cursor: pointer;
+    border: none;
+}
+
+#renk0 {
+  background-color: orange;
+}
+#renk1 {
+  background-color: pink;
+}
+#renk2 {
+  background-color: blueviolet;
+}
+#renk3 {
+  background-color: green;
+}
+#renk4 {
+  background-color: gray;
+}
